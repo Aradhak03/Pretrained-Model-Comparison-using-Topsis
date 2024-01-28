@@ -1,4 +1,4 @@
-﻿Model,Cosine Similarity,Euclidean Distance,Manhattan Distance
+﻿Model,Cosine_Similarity,Euclidean_Distance,Manhattan_Distance
 BERT,0.92,1.5,6.2
 RoBERTa,0.94,1.3,5.8
 XLNet,0.91,1.6,6.5
